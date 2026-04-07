@@ -120,11 +120,4 @@ cd weather-application
 
 -----
 
-\<div align="center"\>
-<br>
-\<b\>Crafted & Developed by\</b\>
-\<h2\>Sibom Sahu\</h2\>
-\<i\>4th-Year IT Student & Full-Stack Developer\</i\>
-<br><br>
-\<code\>System Architecture\</code\> • \<code\>Creative Web Design\</code\> • \<code\>Java Enterprise\</code\>
-\</div\>
+
