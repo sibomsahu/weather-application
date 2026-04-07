@@ -1,4 +1,4 @@
-# 🌩️ Neo-Brutalist WeatherApp: Java Servlet Edition
+# 🌩️ WeatherApp: Java Servlet Edition
 
 A highly stylized, full-stack weather dashboard that completely reimagines the traditional Java web application. By combining the robust, battle-tested backend architecture of Jakarta Servlets with a loud, unapologetic Neo-Brutalist frontend, this application delivers real-time meteorological data and 5-day forecasting without compromising on visual identity.
 
