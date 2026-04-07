@@ -30,7 +30,7 @@ public class WeatherServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
     
     // 🔥 INSERT YOUR OPENWEATHERMAP API KEY HERE 🔥
-    private static final String API_KEY = "YOUR_API_KEY";
+    private static final String API_KEY = "";
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) 
             throws ServletException, IOException {
